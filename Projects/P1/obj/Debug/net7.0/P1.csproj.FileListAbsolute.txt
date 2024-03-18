@@ -1,0 +1,15 @@
+C:\dev\CPSC\CPSC3200\P1\bin\Debug\net7.0\P1.exe
+C:\dev\CPSC\CPSC3200\P1\bin\Debug\net7.0\P1.deps.json
+C:\dev\CPSC\CPSC3200\P1\bin\Debug\net7.0\P1.runtimeconfig.json
+C:\dev\CPSC\CPSC3200\P1\bin\Debug\net7.0\P1.dll
+C:\dev\CPSC\CPSC3200\P1\bin\Debug\net7.0\P1.pdb
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\P1.csproj.AssemblyReference.cache
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\P1.AssemblyInfoInputs.cache
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\P1.AssemblyInfo.cs
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\P1.csproj.CoreCompileInputs.cache
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\P1.dll
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\refint\P1.dll
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\P1.pdb
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\P1.genruntimeconfig.cache
+C:\dev\CPSC\CPSC3200\P1\obj\Debug\net7.0\ref\P1.dll
